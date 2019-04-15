@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+}
+.row {
+    justify-content: center;
+    width: 100%;
+    background: antiquewhite;
+}
+.header {
+    font-family: Roboto;
+    margin: 20px 0;
+}
+.square {
+    background-color: black;
+    height: 150px;
+    border: 2px solid white;
+}
+span {
+    font-size: 90px;
+    color: white;
+    text-align: center;
+}
+.playAgain {
+    margin: 0 0 20px;
+    font-family: Roboto;
+}
